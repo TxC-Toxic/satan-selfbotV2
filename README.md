@@ -1,49 +1,27 @@
 <p align="center">
 <img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
-</p>
-<p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
-</p>
+© TERMINOS DE COPYRIGHT SPECIALWEEK ANTE LA MODIFICACION DE UNA SCRIPT | PERDIREMOS QUE CUMPLA LAS SIGUENTES NORMAS PARA EVITAR PROBLEMAS Y QUE TOMEMOS CARTAS EN EL ASUNTO.
 
-## Clone this project
 
-```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
-```
+- Deje de usar su imagen en nuestro producto
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+- La script modificada sea eliminada
 
-```bash
-> cd termux-wabot
-> bash install.sh
-```
+- Que no vuelva a modificar ninguna script de SpecialWeek OFC (Todas las script seran encriptadas)
 
-### Usage
-```bash
-> npm start
-```
+- Al momento de cambiar la imagen del representante del "Bot" cuenta como Copyright y podemos tomar medidas en eso
 
-### Settings
-```json
-{
-	"prefix": ".",
-	"ownerNumber": "62858xxxxx",
-	"apiKey": "Your ApiKey here"
-}
-```
+- Ignorar este mensaje llevaria a mas terminos aun
+
+Para completar lo que le eh dicho o tendré que contactar con la maxima autoridad del bot
+No puedo permitir que uses tu imagen en nuestro producto por favor espero y entiendas
+Ante dudas puedes contactar con el creador
+
+—————————————
+Wa.me/50373488366
+—————————————
+@specialweek_kwi
+—————————————
 
 ## Features
 
@@ -80,14 +58,4 @@ you've just cloned!!
 |       ✅        |   Set Prefix                     |
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
-
-## Special Thanks to
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-
-## Group
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-### Donate
-* <a href="https://saweria.co/donate/mhankbarbar"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-* <a href="https://paypal.me/mhankbarbar"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 
