@@ -148,6 +148,7 @@ return '```' + string + '```'
 
 async function starts() {
 	const Zitsraa = new WAConnection()
+	Zitsraa.version = [2, 2119, 6]
 	Zitsraa.logger.level = 'warn'
 	console.log(banner.string)
 	Zitsraa.on('qr', () => {
